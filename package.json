@@ -46,7 +46,7 @@
     "fuse-box": "^3.2.2",
     "gulp-babel": "^7.0.1",
     "jsx-loader": "^0.13.2",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "typescript": "^2.9.2",
     "webpack": "^4.26.1",
     "webpack-cli": "^3.1.2"
